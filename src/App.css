@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import "@fontsource/inter";
+
+@keyframes blinkRed {
+  0%,
+  100% {
+    background: transparent;
+  }
+  50% {
+    background: rgba(239, 68, 68, 0.6);
+  }
+}
+
+:root {
+  --font-inter: "Inter", sans-serif;
+}
