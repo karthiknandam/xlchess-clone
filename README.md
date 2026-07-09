@@ -4,6 +4,8 @@ A recreation of the hero section of a modern online chess platform built with **
 
 The primary goal of this project was to recreate the look, feel, and animations of the original landing page as closely as possible while learning modern animation techniques and working with a chess library.
 
+Replicated **Option - 1** recreate the website Hero section
+
 ---
 
 ## 🚀 Tech Stack
